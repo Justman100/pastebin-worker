@@ -16,21 +16,21 @@
   "author": "SharzyL <me@sharzy.in>",
   "license": "MIT",
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.4.2",
-    "@vitest/coverage-istanbul": "1.4.0",
-    "vitest": "1.4.0",
-    "eslint": "^8.33.0",
-    "prettier": "^2.8.3",
-    "wrangler": "^3.32.0"
+    "@cloudflare/vitest-pool-workers": "^0.5.7",
+    "@vitest/coverage-istanbul": "2.1.1",
+    "vitest": "2.1.1",
+    "eslint": "^9.11.0",
+    "prettier": "^3.3.3",
+    "wrangler": "^3.78.7"
   },
   "dependencies": {
-    "mdast-util-to-string": "^3.1.1",
+    "mdast-util-to-string": "^4.0.0",
     "mime": "^3.0.0",
-    "rehype-stringify": "^9.0.3",
+    "rehype-stringify": "^10.0.0",
     "remark-gfm": "^3.0.1",
-    "remark-parse": "^10.0.1",
+    "remark-parse": "^10.0.2",
     "remark-rehype": "^10.1.0",
-    "unified": "^10.1.2",
+    "unified": "^11.0.5",
     "vfile-message": "^4.0.2"
   },
   "resolutions": {
